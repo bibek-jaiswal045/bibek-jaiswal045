@@ -39,9 +39,9 @@ Want these highlighted differently? Tell me which repos to feature and a one-lin
 <!-- GitHub readme-stats: shows profile summary and top languages. These update automatically. -->
 [[Bibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibek-jaiswal045&show_icons=true&count_private=true&theme=radical)](https://github.com/bibek-jaiswal045)
 
-[[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-jaiswal045&layout=compact&theme=radical)](https://github.com/bibek-jaiswal045)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibek-jaiswal045&layout=compact&theme=radical)](https://github.com/bibek-jaiswal045)
 
-[[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibek-jaiswal045&theme=radical)](https://github.com/bibek-jaiswal045)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibek-jaiswal045&theme=radical)](https://github.com/bibek-jaiswal045)
 
 Note: Widgets reflect public activity—if a card doesn't render as expected, ensure your contributions and relevant repos are public.
 
