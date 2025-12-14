@@ -27,9 +27,9 @@ I’m a Laravel Developer who loves solving hard problems with clean, maintainab
 ## 🚀 Spotlight Projects
 Here are a few projects that showcase my work and approach:
 
-- [Ecommerce Website](https://github.com/bibek-jaiswal045/ecommerce)] — Ecommerce website I built during my initial learning phase.  
-- [Movie Review](https://github.com/bibek-jaiswal045/Movie-review)] — A movie review website I built while learning web development.  
-- [Homepage design](https://github.com/bibek-jaiswal045/organic-store)] — A frontend-focused homepage showcasing my design enthusiasm.
+- [Ecommerce Website](https://github.com/bibek-jaiswal045/ecommerce) — Ecommerce website I built during my initial learning phase.  
+- [Movie Review](https://github.com/bibek-jaiswal045/Movie-review) — A movie review website I built while learning web development.  
+- [Homepage design](https://github.com/bibek-jaiswal045/organic-store) — A frontend-focused homepage showcasing my design enthusiasm.
 
 Want these highlighted differently? Tell me which repos to feature and a one-liner for each.
 
