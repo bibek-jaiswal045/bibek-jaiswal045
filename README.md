@@ -2,7 +2,8 @@
 
 > Building robust Laravel applications and elegant frontend experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://np.linkedin.com/in/bibek-jaiswal-463289271) ![Profile views](https://komarev.com/ghpvc/?username=bibek-jaiswal045)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://np.linkedin.com/in/bibek-jaiswal-463289271)]
+[![Profile views](https://komarev.com/ghpvc/?username=bibek-jaiswal045)]
 
 ---
 
